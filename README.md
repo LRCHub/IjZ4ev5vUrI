@@ -1,0 +1,86 @@
+# Aimer – bL∞dy f8
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Behind your mask
+You smile, smile me with
+The greed and the frantic eyes
+I hate it, but I can't deny it
+I don't wanna be like you
+
+The feud between us escalates
+Deeper into tons of tragic wages
+Can't stand it, but I never fight it
+Though I haven't proofed enough
+
+Hypnotized by your charismata
+None realized, you won't be true
+But I know you are right if I were on your side
+So confused
+
+God, what a judgement! Is my punishment?
+Can't I escape from my sole bloody fate?
+Where is my fragment?
+Lost is the moment
+Need to look back what we'd done with
+They are still crying
+
+Who can hold back this war of slaughter?
+Ain't no one gotta refuse, it doesn't really matter
+Betray myself to save the other's soul
+Although I wanna get out of here
+
+We will keep running
+We will keep running
+We will keep running to the one-way freedom
+We will keep rolling
+We will keep rolling
+We will keep rolling to the one-way freedom
+
+Behind your back
+So dark, something dark
+Has ruled your words and deeds
+I found it, but I couldn't prove it
+I don't wanna feel for you
+
+We clearly missed out, furthermore
+We'll repeat the same guilt with the sick creeds
+Can't avoid it, but I'll try to fix it
+And we've gotta turn the tide
+
+Hypnotized by your charismata
+None realized, you won't be true
+But I know you are right if I were on your side
+So confused
+
+God, what a judgement! Is my punishment?
+Can't I escape from my sole bloody fate? Where is my fragment?
+Lost in the moment
+Need to look back what we'd done with
+They are still crying
+
+Who can hold back this war of slaughter?
+Ain't no one gotta refuse, it doesn't really matter
+Betray myself to save the other's soul
+Although I wanna get out of here
+
+No more pain remained to regret with the stains
+Wash all them off to forget my damn conflicts with you
+Don't let me be off my nuts 'cuz of your surrender
+Why don't you sell me out?
+Why don't you take it out?
+
+Almost I lose what I'm living for
+Knock on the floor to spit out the anger from hatred
+Don't let me be off my nuts 'cuz of your surrender
+Why don't you sell me out?
+Why don't you beat me?
+
+We will keep running
+We will keep running
+We will keep running to the one-way freedom
+We will keep rolling
+We will keep rolling
+We will keep rolling to the one-way freedom
+```
