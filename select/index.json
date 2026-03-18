@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "bL∞dy f8",
+  "base_artist": "Aimer",
+  "createdAt": "2026-03-18T15:42:38.895500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "bL∞dy f8 -eUC-",
+      "artist": "SawanoHiroyuki[nZk]:Aimer",
+      "has_synced": false,
+      "path": "select/01_bL∞dy_f8_-eUC-_SawanoHiroyuki[nZk]_Aimer.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "bL∞dy f8 -eUC-",
+      "artist": "SawanoHiroyuki[nZk]:Aimer",
+      "has_synced": true,
+      "path": "select/02_bL∞dy_f8_-eUC-_SawanoHiroyuki[nZk]_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "bL∞dy f8",
+      "artist": "SawanoHiroyuki[nZk]:Aimer",
+      "has_synced": false,
+      "path": "select/03_bL∞dy_f8_SawanoHiroyuki[nZk]_Aimer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "bL∞dy f8 -eUC-",
+      "artist": "SawanoHiroyuki[nZk]:Aimer",
+      "has_synced": true,
+      "path": "select/04_bL∞dy_f8_-eUC-_SawanoHiroyuki[nZk]_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "bL∞dy f8 -eUC- (TV size)",
+      "artist": "SawanoHiroyuki[nZk]:Aimer",
+      "has_synced": true,
+      "path": "select/05_bL∞dy_f8_-eUC-_(TV_size)_SawanoHiroyuki[nZk]_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "bL∞dy f8",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/06_bL∞dy_f8_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "bL∞dy f8 -eUC-",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/07_bL∞dy_f8_-eUC-_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "bL∞dy f8 -eUC- (feat. Aimer)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": true,
+      "path": "select/08_bL∞dy_f8_-eUC-_(feat._Aimer)_SawanoHiroyuki[nZk].lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "bL∞dy f8",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/09_bL∞dy_f8_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "bL∞dy f8 -eUC- (TV size)",
+      "artist": "SawanoHiroyuki[nZk]",
+      "has_synced": false,
+      "path": "select/10_bL∞dy_f8_-eUC-_(TV_size)_SawanoHiroyuki[nZk].txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "bL∞dy f8",
+      "artist": "Sawano, Hiroyuki, nZk:Aimer",
+      "has_synced": true,
+      "path": "select/11_bL∞dy_f8_Sawano,_Hiroyuki,_nZk_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "bL∞dy f8",
+      "artist": "Aimer(エメ)",
+      "has_synced": true,
+      "path": "select/12_bL∞dy_f8_Aimer(エメ).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "bL∞dy f8 -eUC-/ SawanoHiroyuki[nZk]:Aimer",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": false,
+      "path": "select/13_bL∞dy_f8_-eUC-__SawanoHiroyuki[nZk]_Aimer_Hiroyuki_Sawano.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "bL∞dy f8 -eUC-",
+      "artist": "SawanoHiroyuki",
+      "has_synced": true,
+      "path": "select/14_bL∞dy_f8_-eUC-_SawanoHiroyuki.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "bL∞dy f8",
+      "artist": "SawanoHiroyuki",
+      "has_synced": true,
+      "path": "select/15_bL∞dy_f8_SawanoHiroyuki.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "bL∞dy f8 -eUC-",
+      "artist": "SawanoHiroyuki[nZk] , Aimer",
+      "has_synced": false,
+      "path": "select/16_bL∞dy_f8_-eUC-_SawanoHiroyuki[nZk]_,_Aimer.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bL∞dy f8",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_bL∞dy_f8_Aimer.txt"
+    }
+  ]
+}
